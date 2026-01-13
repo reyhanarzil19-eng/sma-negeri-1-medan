@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fasilitas</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<h2>Fasilitas Sekolah</h2>
+<ul>
+    <li>Ruang Kelas</li>
+    <li>Laboratorium</li>
+    <li>Perpustakaan</li>
+    <li>Lapangan Olahraga</li>
+    <li>Ruang Multimedia</li>
+</ul>
+
+</body>
+</html>
